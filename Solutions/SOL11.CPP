@@ -14,7 +14,7 @@ void main()
 	gets(line);
 	for(i=0;i<strlen(line);i++)
 	{
-		if(line[i]=='a'||line[i]=='e'||line[i]=='i'||line[i]=='0'||line[i]=='u');
+		//if(line[i]=='a'||line[i]=='e'||line[i]=='i'||line[i]=='0'||line[i]=='u');
 		{
 			 vowels++;
 			 printf("%c",line[i]);
